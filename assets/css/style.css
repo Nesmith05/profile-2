@@ -1,0 +1,85 @@
+.container {
+    background-color: rgb(218, 192, 255);
+    width: 1200px;
+    /* margin-left: 60px; */
+    /* margin-top: 60px; */
+
+    /* padding: 80px; */
+    /* overflow: auto; */
+    margin: 0em auto;
+
+}
+body {
+    background-image: url("../images/ep_naturalblack.png");
+    font-family: 'Vollkorn', serif;
+    font-size: 20px;
+    
+}
+div {
+    display: block;
+}
+h1 {
+    text-align: center;
+    /* padding: 20px; */
+}
+h5 {
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+img {
+    margin-left: 110px;
+    margin-top: 20px;
+    /* align-content: center;
+    /* align-self: center; */
+    /* align-items: right; */ 
+}
+header {
+    color: aliceblue;
+    font-size: 48px;
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    text-align: center;
+}
+#sidebar {
+
+    /* width: 590px; */
+    /* height: 500px; */
+    /* padding: 10px; */
+    background-color: rgb(220, 220, 220);;
+    padding-right: 50px;
+    text-align: center;
+  
+
+}
+.projects {
+  margin-top: 35px;
+  text-align-last: center;
+}
+.border {
+   border-bottom: 1px solid rgb(36, 9, 46);
+   border-bottom-width: 1px;
+   width: 70%;
+   margin-left: 90px;
+   align-content: center;
+}
+footer {
+    color: aliceblue;
+}
+#info {
+
+	/* width: 500px; */
+	/* padding: 40px; */
+    /* background-color: blue; */
+    background-color:  rgb(193, 185, 208);
+    /* height: 500px; */
+}
+#mytext {
+    margin-top: 20px;
+    margin-left: 40px;
+    text-align: center;
+
+}
+footer {
+    margin-top: 40px;
+    text-align: center;
+}
