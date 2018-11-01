@@ -1,20 +1,11 @@
-.container {
-    background-color: rgb(218, 192, 255);
-    width: 1200px;
-    /* margin-left: 60px; */
-    /* margin-top: 60px; */
 
-    /* padding: 80px; */
-    /* overflow: auto; */
-    margin: 0em auto;
-
-}
 body {
     background-image: url("../images/ep_naturalblack.png");
     font-family: 'Vollkorn', serif;
     font-size: 20px;
     
 }
+
 div {
     display: block;
 }
@@ -27,41 +18,20 @@ h5 {
     text-align: center;
 }
 
-img {
-    margin-left: 110px;
-    margin-top: 20px;
-    /* align-content: center;
-    /* align-self: center; */
-    /* align-items: right; */ 
+#projects {
+    /* margin-top: 50px; */
 }
-header {
-    color: aliceblue;
-    font-size: 48px;
-    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
-    text-align: center;
-}
+
 #sidebar {
 
     /* width: 590px; */
     /* height: 500px; */
     /* padding: 10px; */
-    background-color: rgb(220, 220, 220);;
+    /* background-color: white; */
     padding-right: 50px;
     text-align: center;
-  
+}
 
-}
-.projects {
-  margin-top: 35px;
-  text-align-last: center;
-}
-.border {
-   border-bottom: 1px solid rgb(36, 9, 46);
-   border-bottom-width: 1px;
-   width: 70%;
-   margin-left: 90px;
-   align-content: center;
-}
 footer {
     color: aliceblue;
 }
@@ -70,16 +40,48 @@ footer {
 	/* width: 500px; */
 	/* padding: 40px; */
     /* background-color: blue; */
-    background-color:  rgb(193, 185, 208);
+    /* background-color:  #ffffff */
     /* height: 500px; */
 }
-#mytext {
-    margin-top: 20px;
-    margin-left: 40px;
-    text-align: center;
 
-}
 footer {
     margin-top: 40px;
     text-align: center;
+    background-color: rgb(240, 240, 240);
+}
+.wrapper {
+    background-color: url("../i")
+}
+.jumbotron {
+    background-image: url("./images/architecture-dark-evening-8779701.png"); 
+    height: 230px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    border-bottom-width: 2px;
+    border-bottom-color: lightgray;
+    border-bottom-style: solid;
+    color: aliceblue;   
+    text-align: center;
+    margin-bottom: 0px;
+}
+#projects{
+    padding-top: 50px;
+    text-align: center;
+
+}
+h6{
+    padding: 20px;
+}
+.bg-light{
+    padding-top: 50px;
+
+}
+img{
+    padding-left: 20px;
+    margin-left: 20px;
+}
+#bio-image {
+    margin-left: 70px;
 }
